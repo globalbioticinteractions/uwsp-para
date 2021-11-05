@@ -1,3 +1,7 @@
 provided_interaction_type_label,provided_interaction_type_id,mapped_to_interaction_type_label,mapped_to_interaction_type_id
 associates with,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
 Assocaites with,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
+Has host,,has host,http://purl.obolibrary.org/obo/RO_0002454
+Has Host,,has host,http://purl.obolibrary.org/obo/RO_0002454
+has host,,has host,http://purl.obolibrary.org/obo/RO_0002454
+has hsot,,has host,http://purl.obolibrary.org/obo/RO_0002454
